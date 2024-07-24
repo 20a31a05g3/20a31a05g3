@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/venkateshblks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkateshblks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/venkateswararao-bantupalli-19378420a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkateswararao-bantupalli-19378420a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/venkateshblks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="venkateshblks" height="30" width="40" /></a>
 </p>
